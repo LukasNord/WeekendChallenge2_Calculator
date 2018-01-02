@@ -1,7 +1,4 @@
-body {
-    background-color:gray;
-    color: white;
-}
+
 
 h1 {
     color: red;
@@ -9,7 +6,7 @@ h1 {
 }
 
 #selector {
-
+    font-size: 16px;
     border: none;
     color: white;
 
